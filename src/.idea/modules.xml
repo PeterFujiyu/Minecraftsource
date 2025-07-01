@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/constants/constants.iml" filepath="$PROJECT_DIR$/constants/constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mcsource.iml" filepath="$PROJECT_DIR$/mcsource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packageDocs/packageDocs.iml" filepath="$PROJECT_DIR$/packageDocs/packageDocs.iml" />
+    </modules>
+  </component>
+</project>
